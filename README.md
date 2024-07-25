@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Task 2
+# Swisstronik Tesnet Task 2 ( MINT 100 ERC-20 TOKENS )
 
 ### REMINDER !
 
